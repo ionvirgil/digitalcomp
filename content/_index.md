@@ -58,7 +58,7 @@ sections:
       text: Află cum te putem ajuta!
       button:
         text: Contact
-        url: https://hugoblox.com/templates/
+        url: https://us17.list-manage.com/contact-form?u=ce7b84d5afafae77b846a44ef&form_id=90c9a9b298b5653866f49e8b9f2d6d9e
     design:
       card:
         # Card background color (CSS class)
