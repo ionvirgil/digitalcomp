@@ -51,13 +51,13 @@ sections:
           image: main.jpg
           button:
             text: Cere o ofertă
-            url: https://hugoblox.com/templates/
+            url: https://us17.list-manage.com/contact-form?u=ce7b84d5afafae77b846a44ef&form_id=90c9a9b298b5653866f49e8b9f2d6d9e
   - block: cta-card
     content:
-      title: CONTACTEAZĂ-NE
-      text: Află cum te putem ajuta!
+      title: Contactează-ne
+      text: Direct prin E-mail la safe.web.code@gmail.com sau Telefon - 0731621674
       button:
-        text: Contact
+        text: Formular contact
         url: https://us17.list-manage.com/contact-form?u=ce7b84d5afafae77b846a44ef&form_id=90c9a9b298b5653866f49e8b9f2d6d9e
     design:
       card:

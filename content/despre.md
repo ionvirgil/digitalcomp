@@ -1,3 +1,4 @@
+
 Ești în căutarea unui expert în analiză statistică și data science care să transforme datele tale în informații valoroase? Ai ajuns unde trebuie! Oferim servicii profesionale de analiză statistică și data science adaptate nevoilor tale specifice, indiferent de domeniul în care activezi.
 
 Ce îți putem oferi:
