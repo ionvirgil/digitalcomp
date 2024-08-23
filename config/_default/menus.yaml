@@ -3,18 +3,15 @@
 #   The `weight` parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Acasă
     url: /#top
     weight: 10
-  - name: Features
-    url: /#features
-    weight: 20
-  - name: Solutions
+  - name: Soluții
     url: /#solutions
+    weight: 20
+  - name: Resurse
     weight: 30
-  - name: Resources
-    weight: 40
     hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+#  - parent: Resurse
+#    name: Vizualizări
+#    url: blog/
