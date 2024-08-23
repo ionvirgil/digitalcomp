@@ -12,10 +12,10 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    local_business_type: 'SRL'
+    org_name: 'DigitalComp'
+    description: 'Analiza Datelor și Data Science'
+    twitter: 'DigitalComp'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -31,7 +31,7 @@ header:
   navbar:
     enable: true
     blox: "navbar"
-    align: "center"
+    align: "left"
     fixed_to_top: true
     logo:
       text: "DigitalComp"

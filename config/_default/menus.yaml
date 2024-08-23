@@ -9,9 +9,12 @@ main:
   - name: Soluții
     url: /#solutions
     weight: 20
-  - name: Resurse
+  - name: Despre
+    url: /despre
     weight: 30
-    hasChildren: true
+#  - name: Resurse
+#    weight: 30
+#    hasChildren: true
 #  - parent: Resurse
 #    name: Vizualizări
 #    url: blog/
