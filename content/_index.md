@@ -18,9 +18,9 @@ sections:
         icon: rocket-launch
       announcement:
         text: "Ai un set de date care necesită o analiză statistică?"
-        link:
-          text: "Citește mai mult"
-          url: "/blog/"
+        #link:
+        #  text: "Citește mai mult"
+        #  url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]

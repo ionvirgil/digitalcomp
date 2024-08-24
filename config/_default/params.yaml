@@ -36,7 +36,7 @@ header:
     logo:
       text: "DigitalComp"
       # Logo filename in `assets/media/` folder
-      filename: ""
+      filename: "logo.svg"
     button:
       enable: true
       text: "Ofertă"
